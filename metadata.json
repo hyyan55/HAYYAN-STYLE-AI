@@ -1,0 +1,8 @@
+{
+  "name": "HAYYAN STYLE AI",
+  "description": "AI-powered menswear personal stylist for your digital wardrobe, color harmony, and outfit combinations. Developed by Hayyan Mohamed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
